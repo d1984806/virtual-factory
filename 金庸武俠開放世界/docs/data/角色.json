@@ -1,0 +1,15 @@
+{
+  "id": "player",
+  "name": "新俠客",
+  "origin": "平民",
+  "weapon_preference": "劍",
+  "talent": "悟性高",
+  "attributes": {
+    "體魄": 3,
+    "內力": 2,
+    "敏捷": 3,
+    "悟性": 2
+  },
+  "starting_skills": ["入門劍法"],
+  "starting_items": ["木劍", "布衣", "小還丹"]
+}

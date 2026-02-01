@@ -1,0 +1,11 @@
+; Engine configuration file.
+; It's best edited using the editor.
+
+config_version=5
+
+[application]
+config/name="JinYongRPG_MVP"
+run/main_scene="res://scenes/main.tscn"
+
+[rendering]
+renderer/rendering_method="forward_plus"
