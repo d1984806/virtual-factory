@@ -16,3 +16,4 @@
 - docs/金庸十四本總覽.md
 - docs/遊戲設計總覽.md
 - docs/MVP原型計畫.md
+- prototype_godot/README.md
