@@ -1,0 +1,8 @@
+pandas
+pydantic
+sqlalchemy
+PySide6
+rich
+python-dotenv
+openpyxl
+requests
