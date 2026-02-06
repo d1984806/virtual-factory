@@ -94,7 +94,7 @@ class DcaTab(QWidget):
             context.suggestion_repo.add(session, Suggestion(content=json.dumps(suggestion, ensure_ascii=False)))
 
         message = (
-            f"DCA 建議\n"
+            f"定期定額建議\n"
             f"代號: {symbol}\n"
             f"股數: {shares}\n"
             f"預估金額: {estimated_cash:,.2f}\n"
